@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋
-<--
+
 - 🔭 I’m currently working on Laravel projects
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Projects and Hackathons
@@ -12,5 +12,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Email - sohailmahmud@yahoo.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a procrastinator, I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows.
--->
+- ⚡ Fun fact: I am a procrastinator, I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows;
