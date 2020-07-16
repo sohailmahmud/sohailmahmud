@@ -1,4 +1,4 @@
-[![linkedin badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohailsamii)
+[![linkedin badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaail)
 [![twitter badge](https://img.shields.io/badge/@sohailsamii-30302f?style=flat&logo=twitter)](https://twitter.com/sohailsamii)
 [![medium badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=medium)](https://medium.com/@sohailsamii)
 
