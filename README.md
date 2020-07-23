@@ -14,3 +14,6 @@
 - ⚡ Fun fact: I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows;
 #### I like to travel, play music, video games, write and make art in my non-coding time.
 #### Things I do when I don't code are sometimes demonstrated [here](https://www.instagram.com/sohaiilsami)
+
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=sohaiiil&show_icons=true)
