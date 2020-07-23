@@ -4,13 +4,14 @@
 I am a Full Stack Developer working on web applications used by millions of people daily. I specialise in backend PHP and JavaScript technologies such as Laravel, NodeJS and Express. Besides that, I am an enthusiast of AWS and I look to become an AWS expert.
 
 * Frontend: HTML, CSS, SASS, Vanilla JavaScript, React
-* Backend: Java, PHP, NodeJS, Docker
+* Backend: PHP, Java, NodeJS, Docker
+* Database: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS
-* CI/CD: Drone, Jenkins 
+* CI/CD: Drone, GitLab, Jenkins 
 
 
 ### You can also find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohaiiil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sohaiisami/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sohaiilsami)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohaiiil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sohaiisami/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sohaiilsami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg' alt='Mail' height='40'>](mailto:sohailmahmud@yahoo.com)
 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soh4il&show_icons=true)
