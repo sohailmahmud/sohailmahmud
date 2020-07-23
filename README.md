@@ -11,7 +11,7 @@ I am a Full Stack Developer working on web applications used by millions of peop
 
 
 ### You can also find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohaiiil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sohaiilsami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sohaiisami/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://https://medium.com/@soh4il)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://soh4il.github.io)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sohaiiil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@sohaiilsami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sohaiisami/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://https://medium.com/@soh4il)
 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soh4il&show_icons=true)
@@ -20,6 +20,7 @@ I am a Full Stack Developer working on web applications used by millions of peop
 [![linkedin badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaiiil)
 [![twitter badge](https://img.shields.io/badge/@sohaiilsami-30302f?style=flat&logo=twitter)](https://twitter.com/sohaiilsami)
 [![medium badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=medium)](https://medium.com/@sohailsamii)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://soh4il.github.io)
 
 - 🔭 I’m currently working on PHP Laravel projects
 - 🌱 I’m currently learning Reactjs and node, after that I will try and advance my Python before learning Django.
