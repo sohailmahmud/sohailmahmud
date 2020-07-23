@@ -1,8 +1,3 @@
-[![linkedin badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaiiil)
-[![twitter badge](https://img.shields.io/badge/@sohaiilsami-30302f?style=flat&logo=twitter)](https://twitter.com/sohaiilsami)
-[![medium badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=medium)](https://medium.com/@sohailsamii)
-
-
 ### Hi there 👋, I am Sohail Mahmud!
 ###### *Software Developer*
 
@@ -21,6 +16,10 @@ I am a Full Stack Developer working on web applications used by millions of peop
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sohaiiil&show_icons=true)
 
 <!--
+[![linkedin badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaiiil)
+[![twitter badge](https://img.shields.io/badge/@sohaiilsami-30302f?style=flat&logo=twitter)](https://twitter.com/sohaiilsami)
+[![medium badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=medium)](https://medium.com/@sohailsamii)
+
 - 🔭 I’m currently working on PHP Laravel projects
 - 🌱 I’m currently learning Reactjs and node, after that I will try and advance my Python before learning Django.
 - 👯 I’m looking to collaborate on Projects and Hackathons
