@@ -3,7 +3,7 @@
 
 I am a Full Stack Developer working on web applications used by millions of people daily. I specialise in backend PHP and JavaScript technologies such as Laravel, NodeJS and Express. Besides that, I am an enthusiast of AWS and I look to become an AWS expert.
 
-* Frontend: HTML, CSS, SASS, Vanilla JavaScript, React
+* Frontend: HTML, CSS, SASS, Vanilla JS, TypeScript, React
 * Backend: PHP, Java, NodeJS, Docker
 * Database: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS
