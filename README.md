@@ -5,7 +5,7 @@ I am a Full Stack Developer working on web applications used by millions of peop
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, TypeScript, React
 * Backend: PHP, Java, NodeJS, Docker
-* Database: MySQL, Oracle, PostgreSQL, MongoDB
+* Databases: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS
 * CI/CD: Drone, GitLab, Jenkins 
 
