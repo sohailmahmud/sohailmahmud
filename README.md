@@ -16,8 +16,12 @@ I am a Full Stack Developer working on web applications used by millions of peop
 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soh4il&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soh4il&hide=html&layout=compact&align=center)](https://github.com/Soh4il)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soh4il&hide=html&layout=compact&align=center)](https://github.com/Soh4il)
+-->
+<a href="https://github.com/soh4il/README.md">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soh4il&layout=compact" />
+</a>
 <!--
 [![linkedin badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaiiil)
 [![twitter badge](https://img.shields.io/badge/@sohaiilsami-30302f?style=flat&logo=twitter)](https://twitter.com/sohaiilsami)
