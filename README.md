@@ -1,9 +1,10 @@
 ### Hi there 👋, I am Sohail Mahmud!
+
 ###### *Software Developer*
 
-I am a Full Stack Developer working on web applications used by millions of people daily. I specialise in backend PHP and JavaScript technologies such as Laravel, NodeJS and Express. Besides that, I am an enthusiast of AWS and I look to become an AWS expert.
+A Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and PHP. Professional experience working with Node.Js, Laravel and React.
 
-* Frontend: HTML, CSS, SASS, Vanilla JS, TypeScript, React
+* Frontend: HTML, CSS, SASS, Vanilla JS, React
 * Backend: PHP, Java, NodeJS, Docker
 * Databases: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS
