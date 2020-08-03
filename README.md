@@ -16,7 +16,7 @@ A Software Developer with industry experience building web application used by m
 
 
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=soh4il&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soh4il&hide=html&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=soh4il&show_icons=true)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soh4il&hide=html&layout=compact)
