@@ -18,10 +18,10 @@ A Software Developer with industry experience building web application used by m
 ### My GitHub Stats 📈
 
 <a href="https://github.com/Soh4il/Soh4il">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soh4il&line_height=27&hide=c%23,html&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=FAFBFC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soh4il&line_height=27&hide=c%23,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Soh4il/Soh4il">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soh4il&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=FAFBFC" alt="Sohail's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soh4il&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sohail's GitHub Stats" />
 </a>
 
 <!--
