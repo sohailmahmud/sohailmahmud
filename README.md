@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sohail Mahmud!
 
-###### *Software Developer*
+###### ***Software Developer***
 
 A Software Developer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.
 
