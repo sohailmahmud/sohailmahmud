@@ -18,7 +18,7 @@ A Full-stack Software Developer with industry experience building web & mobile a
 ### My GitHub Stats 📈
 
 <a href="https://github.com/sohailsami/sohailsami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailsami&layout=compact&langs_count=8&hide=c%23,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailsami&langs_count=8&hide=c%23,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/sohailsami/sohailsami">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailsami&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sohail's GitHub Stats" />
