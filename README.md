@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Sohail Mahmud!
 
-###### ***Software Developer***
+###### ***Software Engineer***
 
-A Full-stack Software Developer with industry experience building web & mobile application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.
+A Full-stack Software Engineer with industry experience building web & mobile application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
-* Backend: PHP, Java, NodeJS, Docker
+* Backend: PHP, NodeJS, Docker
 * Databases: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS, Salesforce
 * CI/CD: Drone, Jenkins
