@@ -5,7 +5,7 @@
 A Full-stack Software Engineer with industry experience building web & mobile application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
-* Backend: PHP, NodeJS, Docker
+* Backend: PHP, Java, NodeJS, Docker
 * Databases: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS, Salesforce
 * CI/CD: Drone, Jenkins
