@@ -2,7 +2,7 @@
 
 ###### ***Software Engineer***
 
-A Full-stack Software Engineer with industry experience building web & mobile application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Drone.
+A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based mobile apps development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel, and Drone.
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
 * Backend: PHP, Java, NodeJS, Docker
