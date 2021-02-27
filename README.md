@@ -2,7 +2,7 @@
 
 ###### ***Software Engineer***
 
-A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based mobile apps development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel, and Drone.
+A passionate software engineer who loves to build things. Nowadays mostly work on Flutter-based mobile apps development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel, and Drone.
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
 * Backend: PHP, Java, NodeJS, Docker
