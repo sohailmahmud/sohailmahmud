@@ -5,7 +5,7 @@
 A passionate software engineer who loves to build things. Nowadays mostly work on Flutter-based mobile apps development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel, and Drone.
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
-* Backend: PHP, Java, NodeJS, Docker
+* Backend: Java, PHP, NodeJS, Docker
 * Databases: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS, Salesforce
 * CI/CD: Drone, Jenkins
