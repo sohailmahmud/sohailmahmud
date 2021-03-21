@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sohail Mahmud Sami!
+### Hi there 👋, I am Sohail Mahmud!
 
 ###### ***Software Engineer***
 
