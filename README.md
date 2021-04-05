@@ -7,8 +7,8 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
 * Backend: PHP, Java, NodeJS, Docker
 * Databases: MySQL, Oracle, PostgreSQL, MongoDB
-* Cloud Computing: AWS, Salesforce
-* CI/CD: Drone, Jenkins
+* Cloud Computing: AWS
+* CI/CD: Jenkins
 
 
 ### You can also find me on
