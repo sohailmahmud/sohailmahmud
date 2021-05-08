@@ -10,6 +10,8 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 * Cloud Computing: AWS
 * CI/CD: Jenkins
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailsami" alt="sohailsami" /> </p>
 
 ### You can also find me on
