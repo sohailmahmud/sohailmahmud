@@ -10,8 +10,6 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 * Cloud Computing: AWS
 * CI/CD: Jenkins
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5ohail&style=plastic" alt="5ohail" /> </p>
-
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sohailmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@5ohailMahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@5ohail)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/5ohailmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/sohailsamii)
 
