@@ -16,8 +16,8 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 
 ### My GitHub Stats 📈
 
-<a href="https://github.com/5ohail/5ohail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=5ohail&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sohail's GitHub Stats" />
+<a href="https://github.com/sohailmahmud/sohailmahmud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sohail's GitHub Stats" />
 </a>
 
 <!--
