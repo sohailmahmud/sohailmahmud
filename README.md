@@ -17,12 +17,12 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 ### My GitHub Stats 📈
 
 <a href="https://github.com/sohailmahmud/sohailmahmud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sohail's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Sohail's GitHub Stats" />
 </a>
 
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=blueberry_duo)](https://git.io/streak-stats)
 
 <!--
 <a href="https://github.com/5ohail/5ohail">
