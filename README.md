@@ -21,6 +21,7 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 </a>
 
 &nbsp;
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=blueberry_duo)](https://git.io/streak-stats)
 
 <!--
