@@ -20,7 +20,7 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sohail's GitHub Stats" />
 </a>
 
-[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohailmahmud&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohailmahmud&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 <a href="https://github.com/5ohail/5ohail">
