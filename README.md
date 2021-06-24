@@ -22,7 +22,9 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=blueberry_duo&bacground=22272E)](https://git.io/streak-stats)
+<a href="https://github.com/sohailmahmud/sohailmahmud">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=blueberry_duo&bacground=22272E" alt="Sohail's GitHub Streak
+</a>
 
 <!--
 <a href="https://github.com/5ohail/5ohail">
