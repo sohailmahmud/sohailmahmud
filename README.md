@@ -22,15 +22,11 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
 
 &nbsp;
 
-<a href="https://github.com/sohailmahmud">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=blueberry_duo&bacground=22272E" alt="Sohail's GitHub Streak
+<a href="https://github.com/sohailmahmud/sohailmahmud">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=blueberry_duo&bacground=22272E" alt="Sohail's GitHub Streak" />
 </a>
 
-<!--
-<a href="https://github.com/5ohail/5ohail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ohail&hide=c%23,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
--->
+
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soh4il&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soh4il&hide=html&layout=compact)
