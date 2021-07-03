@@ -26,6 +26,8 @@ A passionate software engineer who loves to build things. Nowadays mostly work o
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=soft-green&sideNums=2BBB8A&ring=2BBB8AE6&fire=DD2727&currStreakNum=2BBB8A&border=FFFFFF" alt="Sohail's GitHub Streak" />
 </a>
 
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailmahmud&theme=dracula)
+--!>
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soh4il&show_icons=true)
