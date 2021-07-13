@@ -4,7 +4,7 @@
 
 A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based cross platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js and Laravel.
 
-* Frontend: HTML, CSS, SASS, Vanilla JS, Flutter, React
+* Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
 * Backend: PHP, Java, NodeJS, Docker
 * Databases: MySQL, Oracle, PostgreSQL, MongoDB
 * Cloud Computing: AWS
