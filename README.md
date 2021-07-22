@@ -2,7 +2,16 @@
 
 ###### ***Software Engineer***
 
-A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based cross platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js and Laravel.
+I build cross-platform things at Extreme Solutions. 
+I previously worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Node.js and Flutter.
+
+I have Diploma-in Computer Engineering degree from Chittagong Polytechnic Institute. Currently, I'm studying B.Sc. in CSE at University of Creative Technology, Chittagong, Bangladesh.
+I live in Chittagong. I was born and raised in Cox's Bazar, Bangladesh.
+I try to follow everything about tech, science, and innovation. Connecting with devs everywhere.
+
+Interested in all things that help developers- tools, APIs, SDKs, automation.
+
+<!-- A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based cross platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js and Laravel.
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
 * Backend: PHP, Java, NodeJS, Docker
@@ -11,11 +20,12 @@ A passionate programmer who loves to build things. Nowadays mostly work on Flutt
 * CI/CD: Jenkins
 
 Interested in all things that help developers- tools, APIs, SDKs, automation.
+--!>
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sohailmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/sohail_dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@sohailmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/sohailmsami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/sohailm4hmud)
 
-
+<!--
 ### My GitHub Stats 📈
 
 <a href="https://github.com/sohailmahmud/sohailmahmud">
@@ -25,6 +35,7 @@ Interested in all things that help developers- tools, APIs, SDKs, automation.
 <a href="https://github.com/sohailmahmud/sohailmahmud">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sohailmahmud&theme=soft-green&sideNums=2BBB8A&ring=2BBB8AE6&fire=DD2727&currStreakNum=2BBB8A&border=FFFFFF" alt="Sohail's GitHub Streak" />
 </a>
+--!>
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohailmahmud&theme=dracula)
 --!>
