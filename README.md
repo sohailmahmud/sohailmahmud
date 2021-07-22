@@ -7,6 +7,7 @@ I previously worked on building the core app at Cynergy Solutions, as a programm
 
 I have Diploma-in Computer Engineering degree from Chittagong Polytechnic Institute. Currently, I'm studying B.Sc. in CSE at University of Creative Technology, Chittagong, Bangladesh.
 I live in Chittagong. I was born and raised in Cox's Bazar, Bangladesh.
+
 I try to follow everything about tech, science, and innovation. Connecting with devs everywhere.
 
 Interested in all things that help developers- tools, APIs, SDKs, automation.
