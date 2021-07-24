@@ -3,7 +3,7 @@
 ###### ***Software Engineer***
 
 I build cross-platform things at Extreme Solutions. 
-I previously worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Node.js and Flutter.
+I previously worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Node.js, Laravel and Flutter.
 
 I have Diploma-in Computer Engineering degree from Chittagong Polytechnic Institute. Currently, I'm studying B.Sc. in CSE at University of Creative Technology, Chittagong, Bangladesh.
 I live in Chittagong. I was born and raised in Cox's Bazar, Bangladesh.
