@@ -2,7 +2,7 @@
 
 ###### ***Software Engineer***
 
-A passionate software engineer who loves to build things. Nowadays mostly work on flutter based cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js and Laravel.
+A passionate software engineer who loves to build things. Nowadays mostly work on flutter based cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Jenkins.
 
 Currently, I build cross-platform things at Extreme Solutions. I previously worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Node.js, Laravel and Flutter.
 
