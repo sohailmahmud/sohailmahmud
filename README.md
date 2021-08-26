@@ -15,6 +15,25 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 ### You can also find me on internet places
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sohailmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/sohailmahmuud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@sohailmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/sohailmahmuud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/sohailmahmud)
 
+<div>
+ <a href="https://www.linkedin.com/in/sohailmahmud/">
+  <img align="left" alt="Sohail's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/sohailmahmuud">
+  <img align="left" alt="Sohail Mahmud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://medium.com/@sohailmahmud">
+  <img align="left" alt="Sohail's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.instagram.com/sohailmahmuud">
+  <img align="left" alt="Sohail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+ <a href="https://t.me/sohailmahmud">
+  <img align="left" alt="Sohail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+</div>
+<br>
+
 ## Metrics
 Thanks to [metrics.lecoq.io](https://metrics.lecoq.io/)
 
