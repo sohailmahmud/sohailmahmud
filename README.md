@@ -20,7 +20,7 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 <a href="https://twitter.com/sohailmahmuud">
   <img align="left" alt="Sohail Mahmud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://medium.com/@sohailmahmud">
+<a href="https://sohailmahmud.medium.com/">
   <img align="left" alt="Sohail's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.instagram.com/sohailmahmuud">
