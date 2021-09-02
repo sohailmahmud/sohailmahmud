@@ -17,7 +17,7 @@ I try to follow everything about tech, science, and innovation. Connecting with 
  <a href="https://www.linkedin.com/in/sohailmahmud/">
   <img align="left" alt="Sohail's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/sohailmahmuud">
+<a href="https://twitter.com/sohailsde">
   <img align="left" alt="Sohail Mahmud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://sohailmahmud.medium.com/">
