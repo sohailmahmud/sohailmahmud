@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sohail Mahmud!
 
-###### `***Software Engineer***`
+##### `Software Engineer`
 
 A passionate software engineer who loves to build things. Nowadays mostly work on flutter based cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Jenkins.
 
