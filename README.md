@@ -33,8 +33,6 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 <br>
 
 ## Metrics
-Thanks to [metrics.lecoq.io](https://metrics.lecoq.io/)
-
 ![Metrics](https://metrics.lecoq.io/5ohail?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 <!-- A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based cross platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js and Laravel.
