@@ -12,7 +12,7 @@ Interested in all things that help developers- tools, APIs, SDKs, automation.
 
 I try to follow everything about tech, science, and innovation. Connecting with devs everywhere.
 
-`You can also find me on internet places`
+###### You can also find me on internet places
 <div>
  <a href="https://www.linkedin.com/in/sohailmahmud/">
   <img align="left" alt="Sohail's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
