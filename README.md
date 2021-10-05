@@ -21,9 +21,6 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 <a href="https://sohailmahmud.medium.com/">
   <img align="left" alt="Sohail's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.instagram.com/sohailmahmuud">
-  <img align="left" alt="Sohail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
  <a href="https://t.me/sohailmahmud">
   <img align="left" alt="Sohail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
