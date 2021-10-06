@@ -6,7 +6,7 @@ A software engineer and a lifelong learner who loves to build things. Nowadays m
 
 Currently, I build cross-platform things at Extreme Solutions. I previously worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Node.js, Laravel and Flutter.
 
-Interested in all things that help developers- tools, APIs, SDKs, automation.
+Interested in all things that help developers- Web3, tools, APIs, SDKs, automation.
 
 I try to follow everything about tech, science, and innovation. Connecting with devs everywhere.
 
