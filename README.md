@@ -13,7 +13,7 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 ##### ***You can also find me on internet places:***
 <div>
  <a href="https://www.linkedin.com/in/sohailmahmud/">
-  <img align="left" alt="Sohail's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sohail's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/sohailsde">
   <img align="left" alt="Sohail Mahmud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,8 +21,11 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 <a href="https://sohailmahmud.medium.com/">
   <img align="left" alt="Sohail's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+ <a href="https://join.skype.com/invite/uZhsXArfp8wG">
+  <img align="left" alt="Sohail's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+</a>
  <a href="https://t.me/sohailmahmud">
-  <img align="left" alt="Sohail's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Sohail's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 </div>
 <br>
