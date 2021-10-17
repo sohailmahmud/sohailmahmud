@@ -12,7 +12,7 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 
 ##### ***You can also find me on internet places:***
 <div>
- <a href="https://www.linkedin.com/in/sohailrman/">
+ <a href="https://www.linkedin.com/in/sohailmahmud/">
   <img align="left" alt="Sohail's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/sohailrman">
