@@ -12,13 +12,13 @@ I try to follow everything about tech, science, and innovation. Connecting with 
 
 ##### ***You can also find me on internet places:***
 <div>
- <a href="https://www.linkedin.com/in/sohailmahmud/">
+ <a href="https://www.linkedin.com/in/sohailrman/">
   <img align="left" alt="Sohail's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/sohailsde">
+<a href="https://twitter.com/sohailrman">
   <img align="left" alt="Sohail Mahmud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://sohailmahmud.medium.com/">
+<a href="https://sohailrman.medium.com/">
   <img align="left" alt="Sohail's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
  <a href="https://join.skype.com/invite/uZhsXArfp8wG">
