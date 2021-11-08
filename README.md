@@ -8,8 +8,6 @@ Currently, I build cross-platform things at Extreme Solutions. I previously work
 
 Interested in all things that help developers- Web3, tools, APIs, SDKs, automation.
 
-I try to follow everything about tech, science, and innovation. Connecting with devs everywhere.
-
 ##### ***You can also find me on internet places:***
 <div>
  <a href="https://www.linkedin.com/in/sohailmahmud/">
