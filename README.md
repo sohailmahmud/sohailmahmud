@@ -19,7 +19,7 @@ Interested in all things that help developers- Web3, tools, APIs, SDKs, automati
 <a href="https://sohailmahmud.medium.com/">
   <img align="left" alt="Sohail's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
- <a href="live:sohailmahmud?chat&topic=Hello">
+ <a href="https://join.skype.com/invite/uZhsXArfp8wG">
   <img align="left" alt="Sohail's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
 </a>
  <a href="https://t.me/sohailmahmud">
