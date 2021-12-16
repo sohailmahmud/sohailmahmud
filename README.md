@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sohail Mahmud!
+### Hi fellow devs 👋, I am Sohail Mahmud!
 
 ##### ***Software Engineer***
 
