@@ -2,7 +2,7 @@
 
 A software engineer and a lifelong learner who loves to build things. Nowadays mostly work on cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Jenkins.
 
-Currently, I build cross-platform things at StdioLabs. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Node.js, Laravel and Flutter.
+Currently, I build cross-platform things at StdioLabs. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Web3, Node.js, Laravel and Flutter.
 
 Interested in all things that help developers- Web3, tools, APIs, SDKs, automation.
 
