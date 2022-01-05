@@ -1,8 +1,8 @@
 ### Hi fellow devs 👋, I am Sohail Mahmud!
 
-An ambitious software engineer and a lifelong learner who loves to build things. Nowadays mostly work on cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Jenkins.
+A software engineer and a lifelong learner who loves to build things. Nowadays mostly work on cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Jenkins.
 
-Currently, Building the digital ecosystem @TheCimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Web3, Node.js, Laravel and Flutter.
+Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Web3, Node.js, Laravel and Flutter.
 
 Interested in all things that help developers- Web3, tools, APIs, SDKs, automation.
 
@@ -11,7 +11,7 @@ Interested in all things that help developers- Web3, tools, APIs, SDKs, automati
  <a href="https://www.linkedin.com/in/sohailmahmud/">
   <img align="left" alt="Sohail's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/sohailmahmut">
+<a href="https://twitter.com/sohailcx">
   <img align="left" alt="Sohail Mahmud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://sohailmahmud.medium.com/">
