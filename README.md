@@ -6,7 +6,7 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 
 Interested in- Competitive programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
-How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
+How to reach out to me: Follow and then DM me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
 Fun fact: I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows;
 I like to travel, cycling, play music, write and make art in my non-coding time.
 Things I do when I don't code are sometimes demonstrated [here](https://www.instagram.com/sohail.io)
