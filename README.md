@@ -1,10 +1,10 @@
 ### Hi fellow devs 👋, I am Sohail Mahmud!
 
-A software engineer and a lifelong learner who loves to build things. Nowadays mostly work on cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js, Laravel and Jenkins.
+A software engineer and a lifelong learner who loves to build things. Nowadays mostly work on cross-platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with various web technologies.
 
-Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web apps at Automate Infosys, founded and led tutoring services for computer technology at Cimbuk Labs, and in my own time I work on Open Source at Web3, Node.js, Laravel and Flutter.
+Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Web3, Node.js, Laravel and Flutter.
 
-Interested in- competitive programming, web3, tools, APIs, SDKs, automation.
+Interested in- Competitive programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
 ##### ***You can also find me on internet places:***
 <div>
