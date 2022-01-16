@@ -4,7 +4,7 @@ A Software Engineer and a lifelong learner who loves to build software and autom
 
 Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Web3, Node.js, Laravel and Flutter.
 
-Interested in- Competitive programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
+Interested in- Functional programming, Web3, AI, Tools, APIs, SDKs, Automation.
 
 How to reach out to me: Follow and then DM me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
 Fun fact: I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows;
