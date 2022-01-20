@@ -15,7 +15,7 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Tools \& Miscellaneous**<br>
   Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
  
-Interested in- Functional programming, Web3, AI, Tools, APIs, SDKs, Automation.
+Interest- Functional programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
 Fun fact: I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows;
