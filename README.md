@@ -5,7 +5,6 @@ A Software Engineer and a lifelong learner who loves to build software and autom
 Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Web3, Node.js, Laravel and Flutter.
 
 ##### 💻 Technologies I Work With
-
 - **Programming Languages**<br>
   JavaScript, PHP, Java, Dart, Python, C, C++
 - **Libraries and Frameworks**<br>
@@ -14,7 +13,7 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
   Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, Oracle, MongoDB
 - **Tools \& Miscellaneous**<br>
   Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, Classical Algorithms \& Data Structures, AirBnB code standards
- 
+
 Interest- Functional programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
