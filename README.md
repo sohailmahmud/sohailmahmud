@@ -12,7 +12,7 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Databases and Infrastructure**<br>
   Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, Oracle, MongoDB
 - **Tools \& Miscellaneous**<br>
-  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion,XMind, Classical Algorithms \& Data Structures, AirBnB code standards
+  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, XMind, Classical Algorithms \& Data Structures, AirBnB code standards
 
 Interest- Functional programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
@@ -43,6 +43,10 @@ Things I do when I don't code are sometimes demonstrated [here](https://www.inst
 
 ## Metrics
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
+
+
+> Thank you for reading <br>
+> Updated on 22nd Jan, 2022.
 
 <!-- A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based cross platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js and Laravel.
 
