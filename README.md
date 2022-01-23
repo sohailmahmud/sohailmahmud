@@ -4,7 +4,7 @@ A Software Engineer and a lifelong learner who loves to build software and autom
 
 Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Web3, Node.js, Laravel and Flutter.
 
-> **💻 Technologies I Work With**
+##### 💻 Technologies I Work With
 - **Programming Languages**<br>
   JavaScript, PHP, Java, Dart, Python, C, C++
 - **Libraries and Frameworks**<br>
@@ -41,7 +41,7 @@ Things I do when I don't code are sometimes demonstrated [here](https://www.inst
 </div>
 <br>
 
-## Metrics
+#### Metrics
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 
