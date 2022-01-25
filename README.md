@@ -16,7 +16,7 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 
 Interest- Functional programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
-&#x1f4c8; *You can also find me on internet places:**
+**You can also find me on internet places:**
 <div>
  <a href="https://www.linkedin.com/in/sohailmahmud/">
   <img align="left" alt="Sohail's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -36,7 +36,7 @@ Interest- Functional programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Autom
 </div>
 <br>
 
----
+----
 
 #### 📘 Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
@@ -48,7 +48,7 @@ Interest- Functional programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Autom
 
 ---
 
-## &#x1f4c8; Metrics
+## Metrics
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 
