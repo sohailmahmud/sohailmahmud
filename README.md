@@ -2,26 +2,21 @@
 
 A Software Engineer and a lifelong learner who loves to build software and automate things. Nowadays mostly work on cross-platform things development. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
 
-Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Web3, Node.js, Laravel and Flutter.
+Currently, Building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building the core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
 
-#### 💻 Technologies I Work With
+#### ⚡ Technologies I Work With
 - **Programming Languages**<br>
-  JavaScript, PHP, Java, Dart, Python, C, C++
+  * JavaScript, PHP, Java, Dart, Python, C, C++
 - **Libraries and Frameworks**<br>
-  Laravel, Flutter, GraphQL, Node.js, Express.js, Vue.js
+  * Laravel, Flutter, GraphQL, Node.js, Express.js, Vue.js
 - **Databases and Infrastructure**<br>
-  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, Oracle, MongoDB
+  * Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, Oracle, MongoDB
 - **Tools \& Miscellaneous**<br>
-  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, XMind, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
+  * Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, XMind, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
 
 Interest- Functional programming, Web3, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
-How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
-Fun fact: I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows;
-I like to travel, cycling, play music, write and make art in my non-coding time.
-Things I do when I don't code are sometimes demonstrated [here](https://www.instagram.com/sohail.io)
-
-**You can also find me on internet places:**
+&#x1f4c8; *You can also find me on internet places:**
 <div>
  <a href="https://www.linkedin.com/in/sohailmahmud/">
   <img align="left" alt="Sohail's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -41,13 +36,32 @@ Things I do when I don't code are sometimes demonstrated [here](https://www.inst
 </div>
 <br>
 
-## Metrics
+---
+
+#### 📘 Latest Blog Articles
+<!-- BLOG-POST-LIST:START -->
+- [My review on freeCodeCamp’s curriculum](https://sohailmahmud.medium.com/my-review-on-freecodecamps-curriculum-4333cb799f85)
+- 
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://sohailmahmud.medium.com)
+
+---
+
+## &#x1f4c8; Metrics
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 
 > Thank you for reading <br>
-> Updated on 22nd Jan, 2022.
+> Updated on 26th Jan, 2022.
 
+
+<!--
+How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
+Fun fact: I don't know about funny facts, but the sad fact is that some people believe that your job is to install / reinstall Windows;
+I like to travel, cycling, play music, write and make art in my non-coding time.
+Things I do when I don't code are sometimes demonstrated [here](https://www.instagram.com/sohail.io)
+--!>
 <!-- A passionate programmer who loves to build things. Nowadays mostly work on Flutter-based cross platform things development and writing Serverless JavaScript functions. Specializing in JavaScript technologies and AWS. Professional experience working with Node.js and Laravel.
 
 * Frontend: HTML, CSS, SASS, Vanilla JS, Flutter
