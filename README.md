@@ -27,8 +27,8 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 <a href="https://sohailmahmud.medium.com/">
   <img align="left" alt="Sohail's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
- <a href="https://join.skype.com/invite/uZhsXArfp8wG">
-  <img align="left" alt="Sohail's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+ <a href="https://discord.com/channels/sohail#9574">
+  <img align="left" alt="Sohail's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
  <a href="https://t.me/sohailmahmud">
   <img align="left" alt="Sohail's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
