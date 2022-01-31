@@ -6,11 +6,11 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 
 #### ⚡ Technologies I Work With
 - **Programming Languages**<br>
-  JavaScript, PHP, Java, Dart, Python, C, C++
+   C, C++, Java, JavaScript, PHP, Dart, Python
 - **Libraries and Frameworks**<br>
-  Laravel, Flutter, GraphQL, Node.js, Express.js, Vue.js
+  Laravel, Flutter, Node.js, Express.js, GraphQL, Vue.js
 - **Databases and Infrastructure**<br>
-  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, Oracle, MongoDB
+  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, PostgreSQL, Oracle, MongoDB
 - **Tools \& Miscellaneous**<br>
   Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, XMind, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
 
