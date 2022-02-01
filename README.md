@@ -14,7 +14,7 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Tools \& Miscellaneous**<br>
   Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, XMind, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
 
-> Interest- Functional programming, AI, Blockchain, Tools, APIs, SDKs, Automation.
+> Interest- Functional programming, ML, Blockchain, Tools, APIs, SDKs, Automation.
 
 **You can also find me on internet places:**
 <div>
@@ -41,7 +41,6 @@ Currently, Building the digital ecosystem at Cimbuk. I previously worked on buil
 #### ✍️ Latest Blog Articles
 <!-- BLOG-POST-LIST:START -->
 - [My review on freeCodeCamp’s curriculum](https://sohailmahmud.medium.com/my-review-on-freecodecamps-curriculum-4333cb799f85)
-- 
 - 
 <!-- BLOG-POST-LIST:END -->
 
