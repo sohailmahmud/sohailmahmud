@@ -1,18 +1,18 @@
 ### Hi fellow devs 👋, I am Sohail Mahmud!
 
-A *Software Engineer* who loves to build software and automate things. Nowadays mostly work on cross-platform things development. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
+A *Software Engineer* based in Bangladesh. I love building open-source projects and writing what I learn along the way. Nowadays mostly work on cross-platform things development. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
 
 Currently building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
 
 #### ⚡ Technologies I Work With
 - **Programming Languages**<br>
-   C++, Java, JavaScript, PHP, Dart, Python
+   C, C++, Java, JavaScript, PHP, Dart, Python
 - **Libraries and Frameworks**<br>
   Laravel, Flutter, Node.js, Express.js, GraphQL, Vue.js
 - **Databases and Infrastructure**<br>
   Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, PostgreSQL, Oracle, MongoDB
 - **Tools \& Miscellaneous**<br>
-  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, XMind, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
+  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
 
 > Interest- Functional programming, ML, Blockchain, Tools, APIs, SDKs, Automation.
 
