@@ -14,7 +14,7 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
 - **Tools \& Miscellaneous**<br>
   Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
 
-> Interest- Functional programming, ML, Blockchain, Tools, APIs, SDKs, Automation.
+> Interest- Functional programming, AI, ML, Blockchain, Tools, APIs, SDKs, Automation.
 
 **You can also find me on internet places:**
 <div>
