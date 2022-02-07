@@ -12,9 +12,9 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
 - **Databases and Infrastructure**<br>
   Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, PostgreSQL, Oracle, MongoDB
 - **Tools \& Miscellaneous**<br>
-  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, TDD, Classical Algorithms \& Data Structures, AirBnB code standards
+  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, TDD, SDLC, Classical Algorithms \& Data Structures, AirBnB code standards
 
-> Interest- Functional programming, AI, ML, Blockchain, Tools, APIs, SDKs, Automation.
+> Interest- Functional programming, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
 **You can also find me on internet places:**
 <div>
