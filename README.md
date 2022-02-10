@@ -4,15 +4,17 @@ A *Software Engineer* based in Bangladesh. I love building open-source projects 
 
 Currently building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
 
-#### ⚡ Technologies I Work With
+#### ⚡ TECHNICAL SKILLS
 - **Programming Languages**<br>
    C, C++, Java, JavaScript, PHP, Dart, Python
-- **Libraries and Frameworks**<br>
+- **Technologies and Frameworks**<br>
   Laravel, Flutter, Node.js, Express.js, GraphQL, Vue.js
-- **Databases and Infrastructure**<br>
-  Amazon Web Services(AWS), Google Cloud Platform(GCP), Firebase, SQLite, MySQL, PostgreSQL, Oracle, MongoDB
-- **Tools \& Miscellaneous**<br>
-  Visual Studio Code, XCode, Android Studio, REST API, SDK, Docker, Grafana, Jenkins, Postman, Git, bash, NPM, Yarn, Jira, Notion, TDD, SDLC, Classical Algorithms \& Data Structures, AirBnB code standards
+- **Deployment, Cloud and Version Control**<br>
+  Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, GCP, Git
+- **Project Management**
+  Postman, Bash, NPM, Yarn, Jira, Notion, TDD
+- **Database, Big data and ETL**<br>
+  MySQL, Oracle, Firebase, SQLite, MongoDB, Hadoop, Spark, Ab Initio
 
 > Interest- Functional programming, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
