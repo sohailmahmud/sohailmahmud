@@ -11,7 +11,7 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
   Laravel, Flutter, Node.js, Express.js, GraphQL, Vue.js
 - **Deployment, Cloud and Version Control**<br>
   Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, GCP, Git
-- **Project Management**
+- **Project Management**<br>
   Postman, Bash, NPM, Yarn, Jira, Notion, TDD
 - **Database, Big data and ETL**<br>
   MySQL, Oracle, Firebase, SQLite, MongoDB, Hadoop, Spark, Ab Initio
