@@ -8,7 +8,7 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
 - **Programming Languages**<br>
    C, C++, Java, JavaScript, PHP, Dart, Python
 - **Technologies and Frameworks**<br>
-  Laravel, Flutter, Node.js, Express.js, GraphQL, Vue.js
+  Node.js, Laravel, Flutter, Express.js, GraphQL, NumPy, OpenCV, PyTorch
 - **Deployment, Cloud and Version Control**<br>
   Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, GCP, Git
 - **Project Management**<br>
