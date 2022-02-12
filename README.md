@@ -14,7 +14,7 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
 - **Project Management**<br>
   Postman, Bash, NPM, Yarn, Jira, Notion, TDD
 - **Database, Big data and ETL**<br>
-  MySQL, Oracle, Firebase, SQLite, MongoDB, Hadoop, Spark, Ab Initio
+  MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Hadoop, Spark, Ab Initio
 
 > Interest- Functional programming, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
