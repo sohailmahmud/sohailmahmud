@@ -2,7 +2,7 @@
 
 A _Software Engineer_ based in Bangladesh. I love building open-source projects and writing what I learn along the way. Nowadays mostly work on cross-platform things development. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
 
-Currently building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
+Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
 
 #### ⚡ TECHNICAL SKILLS
 
@@ -21,7 +21,7 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
 
 **You can also find me on internet places:**
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](images/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](images/github.svg)](https://github.com/sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](images/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](images/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](assets/github.svg)](https://github.com/sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
 <div>
