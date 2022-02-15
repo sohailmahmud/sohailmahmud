@@ -1,6 +1,6 @@
 ### Hi fellow devs 👋, I am Sohail Mahmud!
 
-A _Software Engineer_ based in Bangladesh. I love building open-source projects and writing what I learn along the way. Nowadays mostly work on cross-platform things development. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
+A Software Engineer with 4 years of industry experience. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
 
 Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
 
