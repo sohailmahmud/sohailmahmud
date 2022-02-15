@@ -21,7 +21,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 
 **You can also find me on internet places:**
 
-[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](assets/github.svg)](https://github.com/sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
 <div>
