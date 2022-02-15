@@ -1,12 +1,13 @@
 ### Hi fellow devs 👋, I am Sohail Mahmud!
 
-A *Software Engineer* based in Bangladesh. I love building open-source projects and writing what I learn along the way. Nowadays mostly work on cross-platform things development. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
+A _Software Engineer_ based in Bangladesh. I love building open-source projects and writing what I learn along the way. Nowadays mostly work on cross-platform things development. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
 
 Currently building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
 
 #### ⚡ TECHNICAL SKILLS
+
 - **Programming Languages**<br>
-   C, C++, Java, JavaScript, PHP, Dart, Python
+  C, C++, Java, JavaScript, PHP, Dart, Python
 - **Technologies and Frameworks**<br>
   NodeJS, Laravel, Flutter, NestJS, GraphQL, REST APIs, NumPy, OpenCV, PyTorch
 - **Deployment, Cloud and Version Control**<br>
@@ -19,6 +20,10 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
 > Interest- Functional programming, AI, Blockchain, Tools, APIs, SDKs, Automation.
 
 **You can also find me on internet places:**
+
+[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](images/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](images/github.svg)](https://github.com/sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](images/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](images/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!--
 <div>
  <a href="https://www.linkedin.com/in/sohailmahmud/">
   <img align="left" alt="Sohail's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -38,25 +43,25 @@ Currently building the digital ecosystem at Cimbuk. I previously worked on build
 </div>
 <br>
 
-----
+---
 
 #### ✍️ Latest Blog Articles
+
 <!-- BLOG-POST-LIST:START -->
+
 - [My review on freeCodeCamp’s curriculum](https://sohailmahmud.medium.com/my-review-on-freecodecamps-curriculum-4333cb799f85)
-- 
-<!-- BLOG-POST-LIST:END -->
+- <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sohailmahmud.medium.com)
 
 ---
 
 ## Metrics
+
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
-
 > Thank you for reading <br>
-> Updated on 26th Jan, 2022.
-
+> Updated on 15th Feb, 2022.
 
 <!--
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
@@ -97,7 +102,7 @@ Interested in all things that help developers- tools, APIs, SDKs, automation.
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=+8801624340883)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13858780/sohail)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13858780/sohail)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/__sohail__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/sohailsamii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/sohailsamii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/sohailsamii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sohailsamii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='E-mail' height='40'>](mailto:sohailmahmud@yahoo.com)
 [![linkedin badge](https://img.shields.io/badge/Sohail_Mahmud-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaiiil)
 [![twitter badge](https://img.shields.io/badge/@sohaiilsami-30302f?style=flat&logo=twitter)](https://twitter.com/sohaiilsami)
