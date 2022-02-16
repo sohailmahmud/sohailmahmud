@@ -1,10 +1,10 @@
 ### Hi fellow devs 👋, I am Sohail Mahmud!
 
-A Software Engineer with 4 years of industry experience. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications used by millions of people.
+A Software Engineer with 4 years of industry experience. Specializing in JavaScript technologies and AWS. Strong experience with the languages I work with and I've released software in JavaScript, Java, PHP, Dart, Python.
 
 Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
 
-#### ⚡ TECHNICAL SKILLS
+#### ⚡ Technologies I Work With
 
 - **Programming Languages**<br>
   C, C++, Java, JavaScript, PHP, Dart, Python
