@@ -7,7 +7,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 #### ⚡ Technologies I Work With
 
 - **Programming Languages**<br>
-  C++, Java, JavaScript, PHP, Python, Dart Solidity
+  C++, Java, JavaScript, PHP, Python, Dart, Solidity
 - **Technologies and Frameworks**<br>
   NodeJS, Laravel, Flutter, NestJS, GraphQL, REST APIs, NumPy, OpenCV, PyTorch
 - **Deployment, Cloud and Version Control**<br>
