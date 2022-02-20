@@ -1,4 +1,4 @@
-### Hi fellow devs 👋, I am Sohail Mahmud!
+### Hi there👋, I am Sohail Mahmud!
 
 A Software Engineer with 4 years of industry experience. Specializing in JavaScript technologies and AWS. Professional experience with building web and mobile applications.
 
