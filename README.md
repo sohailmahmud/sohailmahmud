@@ -17,7 +17,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Database, Big data and ETL**<br>
   MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Hadoop, Spark, Ab Initio
 
-> Interest- Functional programming, AI, Blockchain, Tools, APIs, SDKs, Automation.
+> Interest- ML, Blockchain, Tools, APIs, SDKs, Automation.
 
 **You can also find me on internet places:**
 
