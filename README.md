@@ -9,13 +9,13 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Programming Languages**<br>
   C++, Java, JavaScript, PHP, Python, Dart, Solidity
 - **Technologies and Frameworks**<br>
-  NodeJS, Laravel, Flutter, NestJS, GraphQL, REST APIs, NumPy, OpenCV, PyTorch
+  NodeJS, Laravel, Flutter, NestJS, GraphQL, REST APIs, Scikit-Learn, OpenCV, Pytorch
 - **Deployment, Cloud and Version Control**<br>
   Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, GCP, Git
 - **Project Management**<br>
   Postman, Bash, NPM, Yarn, Jira, Notion, TDD
 - **Database, Big data and ETL**<br>
-  MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Hadoop, Spark, Ab Initio
+  MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Hive, Hadoop, Spark, Ab Initio
 
 > Interest- ML, Blockchain, Tools, APIs, SDKs, Automation.
 
