@@ -11,7 +11,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Technologies and Frameworks**<br>
   NodeJS, Laravel, Flutter, NestJS, GraphQL, REST APIs, Scikit-Learn, OpenCV, Pytorch
 - **Deployment, Cloud and Version Control**<br>
-  Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, GCP, Git
+  Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, Git
 - **Project Management**<br>
   Postman, Bash, NPM, Yarn, Jira, Notion, TDD
 - **Database, Big data and ETL**<br>
