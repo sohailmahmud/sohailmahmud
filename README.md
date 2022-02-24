@@ -2,14 +2,14 @@
 
 An experienced Software Engineer with a demonstrated history of working in the software industry. Specialized in JavaScript technologies, AWS, and Docker. Professional experience with building robust and scalable applications for mobile, web, and desktop platforms.
 
-Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, founded and led tutoring services for computer programming at Cimbuk Labs, and in my own time I work on opensource at Node.js, Laravel and Flutter.
+Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, and in my own time I work on opensource at NodeJS, Laravel and Flutter.
 
 #### ⚡ Skilled In:
 
 - **Programming Languages**<br>
   C++, Java, JavaScript, PHP, Python, Dart, Solidity
 - **Technologies and Frameworks**<br>
-  NodeJS, Laravel, Flutter, NestJS, GraphQL, REST APIs, Scikit-Learn, OpenCV, Pytorch
+  NodeJS, Laravel, Flutter, ExpressJS, Web3JS, GraphQL, REST APIs, Scikit-Learn, OpenCV, Pytorch
 - **Deployment, Cloud and Version Control**<br>
   Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, Git
 - **Project Management**<br>
@@ -62,7 +62,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 > Thank you for reading <br>
-> Updated on 15th Feb, 2022.
+> Updated on 24th Feb, 2022.
 
 <!--
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
