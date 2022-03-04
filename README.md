@@ -13,7 +13,7 @@ A Full Stack Developer with 4+ years of industry experience. Specialized in Java
 - **Database, Big data and ETL**<br>
   MySQL, SQLite, MongoDB, Redis, PostgreSQL, Oracle, Hive, Hadoop, Spark, Ab Initio
 
-> Interest- ML, Blockchain, Tools, APIs, SDKs, Automation.
+> Interest- Web3, Tools, APIs, SDKs, Automation.
 
 **You can also find me on internet places:**
 
