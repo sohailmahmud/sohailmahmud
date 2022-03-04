@@ -1,20 +1,17 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Software Engineer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications.
-Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, and in my own time I work on opensource at NodeJS, Laravel and Flutter.
+A Full Stack Developer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications. Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, and in my own time I work on opensource at NodeJS, Laravel and Flutter.
 
 #### ⚡ Skilled In:
 
 - **Programming Languages**<br>
-  C++, Java, JavaScript, PHP, Python, Dart, Solidity
+  JavaScript, PHP, Java, C++, Python, Dart, Solidity
 - **Technologies and Frameworks**<br>
-  NodeJS, Laravel, Flutter, ExpressJS, Web3JS, GraphQL, REST APIs, Scikit-Learn, OpenCV, Pytorch
+  NodeJS, Laravel, Flutter, ExpressJS, GraphQL, SKLearn, OpenCV, PyTorch
 - **Deployment, Cloud and Version Control**<br>
-  Docker, Terraform, Jenkins, CircleCI, Codemagic, Gradle, AWS, Git
-- **Project Management**<br>
-  Postman, Bash, NPM, Yarn, Jira, Notion, TDD
+  Docker, K8s, Terraform, Jenkins, Codemagic, Gradle, AWS, Git
 - **Database, Big data and ETL**<br>
-  MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Hive, Hadoop, Spark, Ab Initio
+  MySQL, SQLite, MongoDB, Redis, PostgreSQL, Oracle, Hive, Hadoop, Spark, Ab Initio
 
 > Interest- ML, Blockchain, Tools, APIs, SDKs, Automation.
 
@@ -50,6 +47,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 <!-- BLOG-POST-LIST:START -->
 
 - [My review on freeCodeCamp’s curriculum](https://sohailmahmud.medium.com/my-review-on-freecodecamps-curriculum-4333cb799f85)
+- 
 - <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sohailmahmud.medium.com)
@@ -61,7 +59,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 > Thank you for reading <br>
-> Updated on 24th Feb, 2022.
+> Updated on 5th March, 2022
 
 <!--
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
