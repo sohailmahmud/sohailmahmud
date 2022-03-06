@@ -1,8 +1,10 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Full Stack Developer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications. Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, and in my own time I work on opensource at NodeJS, Laravel and Flutter.
+A Full Stack Developer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications. I launched 4 successful infrastructure applications which in total reached 3M+ users and generated $200k+ in revenue. I built everything from the front-end to the back-end and everything in between.
 
-#### ⚡ Skilled In:
+Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, and in my own time I work on opensource at NodeJS, Laravel and Flutter.
+
+#### ⚡ Technical Skills:
 
 - **Programming Languages**<br>
   JavaScript, PHP, Java, C++, Python, Dart, Solidity
@@ -15,9 +17,11 @@ A Full Stack Developer with 4+ years of industry experience. Specialized in Java
 
 > Interest- Web3, Tools, APIs, SDKs, Automation.
 
+Looking for a small-medium team (greater than 10 engineers) that solves hard/interesting problems. Prefer to work on user-facing stuff. My strengths are mostly in backend, but I can do HTML/CSS, HAML/SASS, Flutter, JS(vue.js, next.js, jquery, d3.js, anime.js, three.js, chart.js, etc). I'd like to work in a mission-driven company that enables people, especially if it is healthcare, logistics or online education.
+
 **You can also find me on internet places:**
 
-[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;[![Discord](assets/discord.svg)](https://discord.com/users/802948024962777098)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
 <div>
