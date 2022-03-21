@@ -15,9 +15,10 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Database, Big data and ETL**<br>
   MySQL, SQLite, MongoDB, Redis, PostgreSQL, Oracle, Hive, Hadoop, Spark, Ab Initio
 
-> Interest- Web3, Tools, APIs, SDKs, Automation.
-
+> Interest- ML, Blockchain, Tools, APIs, SDKs, Automation.
+<!--
 Looking for a small-medium team (greater than 10 engineers) that solves hard/interesting problems. Prefer to work on user-facing stuff. My strengths are mostly in backend, but I can do HTML/CSS, HAML/SASS, Flutter, JS(vue.js, next.js, jquery, d3.js, anime.js, three.js, chart.js, etc). I'd like to work in a mission-driven company that enables people, especially if it is healthcare, logistics or online education.
+-->
 
 **You can also find me on internet places:**
 
@@ -63,7 +64,7 @@ Looking for a small-medium team (greater than 10 engineers) that solves hard/int
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 > Thank you for reading <br>
-> Updated on 5th March, 2022
+> Updated on 21st March, 2022
 
 <!--
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
