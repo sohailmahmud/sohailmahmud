@@ -51,7 +51,7 @@ Looking for a small-medium team (greater than 10 engineers) that solves hard/int
 
 <!-- BLOG-POST-LIST:START -->
 
-- [My review on freeCodeCamp’s curriculum](https://sohailmahmud.medium.com/my-review-on-freecodecamps-curriculum-4333cb799f85)
+- 
 - 
 - <!-- BLOG-POST-LIST:END -->
 
