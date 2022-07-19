@@ -1,6 +1,6 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Full Stack Developer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications. I launched 4 successful infrastructure applications which in total reached 3M+ users and generated $200k+ in revenue. I built everything from the front-end to the back-end and everything in between.
+A Full Stack Developer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications. I launched 4 successful infrastructure applications which in total reached 3M+ users and generated $300k+ in revenue. I built everything from the front-end to the back-end and everything in between.
 
 Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, and in my own time I work on opensource at NodeJS, Laravel and Flutter.
 
@@ -9,7 +9,7 @@ Currently, building the digital ecosystem at Cimbuk. I previously worked on buil
 - **Programming Languages**<br>
   JavaScript, PHP, Java, C++, Python, Dart, Solidity
 - **Technologies and Frameworks**<br>
-  NodeJS, Laravel, Flutter, ExpressJS, GraphQL, SKLearn, OpenCV, PyTorch
+  NodeJS, Laravel, Flutter, ExpressJS, GraphQL, SKLearn, PyTorch
 - **Deployment, Cloud and Version Control**<br>
   Docker, K8s, Terraform, Jenkins, Codemagic, Gradle, AWS, Git
 - **Database, Big data and ETL**<br>
@@ -64,7 +64,7 @@ Looking for a small-medium team (greater than 10 engineers) that solves hard/int
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 > Thank you for reading <br>
-> Updated on 21st March, 2022
+> Updated on 19 July, 2022
 
 <!--
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
