@@ -1,8 +1,10 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Full Stack Developer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications. I launched 4 successful infrastructure applications which in total reached 3M+ users and generated $300k+ in revenue. I built everything from the front-end to the back-end and everything in between.
+A Full-Stack Software Engineer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications across domains.
 
-Currently, building the digital ecosystem at Cimbuk. I previously worked on building cross-platform app at Extreme Solutions, worked on building core app at Cynergy Solutions, as a programmer I built and launched web app at Automate Infosys, and in my own time I work on opensource at NodeJS, Laravel and Flutter.
+I launched 4 successful applications which in total reached 3M+ users and generated $300k+ in revenue. I built everything from the front-end to the back-end and everything in between.
+
+Currently, I enjoy the work I'm doing for ProHealth. However, any positions opening, and I'm interested to learn more. Prefer to work on user-facing stuff. My strengths are mostly in backend, but I can do HAML/SASS, Flutter, JS(next.js, jquery, d3.js, anime.js, three.js, chart.js, etc). I'd like to work in a mission-driven company that enables people, especially if it is healthcare, finance, or online education.
 
 #### ⚡ Technical Skills:
 
@@ -64,7 +66,7 @@ Looking for a small-medium team (greater than 10 engineers) that solves hard/int
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 > Thank you for reading <br>
-> Updated on 19 July, 2022
+> Updated on 18 September, 2022
 
 <!--
 How to reach me: Follow me on [Twitter](https://www.twitter.com/sohailcx), or message me on [LinkedIn](https://www.linkedin.com/in/sohaimahmud).
