@@ -17,7 +17,7 @@ Currently, I enjoy the work I'm doing for ProHealth. However, any positions open
 - **Database, Big data and ETL**<br>
   MySQL, SQLite, MongoDB, Redis, PostgreSQL, Oracle, Hive, Hadoop, Spark, Ab Initio
 
-> Interest- Programming.
+> Interest- Tinkering with Rubix Cube, watching TED talks and attending conferences.
 <!--
 Looking for a small-medium team (greater than 10 engineers) that solves hard/interesting problems. Prefer to work on user-facing stuff. My strengths are mostly in backend, but I can do HTML/CSS, HAML/SASS, Flutter, JS(vue.js, next.js, jquery, d3.js, anime.js, three.js, chart.js, etc). I'd like to work in a mission-driven company that enables people, especially if it is healthcare, logistics or online education.
 -->
