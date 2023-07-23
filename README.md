@@ -52,8 +52,8 @@ Looking for a small-medium team (greater than 10 engineers) that solves hard/int
 #### ✍️ Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- ![Securing Flutter Apps: Best Practices for App Security](https://sohailmahmud.medium.com/securing-flutter-apps-best-practices-for-app-security-919596dd0db0)
-- ![Implementing clean architecture in flutter apps](https://medium.com/@santhosh-adiga-u/implementing-clean-architecture-in-flutter-apps-5c8e37253841)
+- [Securing Flutter Apps: Best Practices for App Security](https://sohailmahmud.medium.com/securing-flutter-apps-best-practices-for-app-security-919596dd0db0)
+- [Implementing clean architecture in flutter apps](https://medium.com/@santhosh-adiga-u/implementing-clean-architecture-in-flutter-apps-5c8e37253841)
 - <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://sohailmahmud.medium.com)
