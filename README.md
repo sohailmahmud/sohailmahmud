@@ -1,21 +1,8 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Full-Stack Software Engineer with 4+ years of industry experience. Specialized in JavaScript technologies and AWS. Professional experience with building large-scale infrastructure applications across domains.
+A Full-Stack Software Engineer with 4+ years of industry experience. Specialized in Flutter,. NET Core, AWS, and DevOps. Professional experience with building large-scale applications across domains.
 
-I launched 4 successful applications which in total reached 3M+ users and generated $300k+ in revenue. I built everything from the front-end to the back-end and everything in between.
-
-Currently, I enjoy the work I'm doing for ProHealth. However, any positions opening, and I'm interested to learn more. Prefer to work on user-facing stuff. My strengths are mostly in backend, but I can do HAML/SASS, Flutter, JS(next.js, jquery, d3.js, anime.js, three.js, chart.js, etc). I'd like to work in a mission-driven company that enables people, especially if it is healthcare, finance, or online education.
-
-#### ⚡ Technical Skills:
-
-- **Programming Languages**<br>
-  JavaScript, PHP, Java, C++, Python, Dart, Solidity
-- **Technologies and Frameworks**<br>
-  NodeJS, Laravel, Flutter, ExpressJS, GraphQL, SKLearn, PyTorch
-- **Deployment, Cloud and Version Control**<br>
-  Docker, K8s, Terraform, Jenkins, Codemagic, Gradle, AWS, Git
-- **Database, Big data and ETL**<br>
-  MySQL, SQLite, MongoDB, Redis, PostgreSQL, Oracle, Hive, Hadoop, Spark, Ab Initio
+Currently, I enjoy the work I'm doing for ProHealth. However, any positions opening, and I'm interested to learn more.
 
 > Interest- Programming, Building things, Tinkering with Rubix Cube, watching TED talks and attending conferences.
 <!--
