@@ -1,6 +1,6 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Full-Stack Software Engineer with 4+ years of industry experience. Specializes in Flutter, .NET Core, AWS, and DevOps. Professional experience with building large-scale applications across domains.
+A Full-Stack Software Engineer with 4+ years of industry experience. Specializes in **Flutter**, **.NET Core**, **AWS**, and **DevOps**. Professional experience with building large-scale applications across domains.
 
 Currently, I enjoy the work I'm doing for ProHealth. However, any positions opening, and I'm interested to learn more.
 
@@ -37,4 +37,4 @@ Currently, I enjoy the work I'm doing for ProHealth. However, any positions open
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 > Thank you for reading <br>
-> Updated on 23 July, 2023
+> Updated on 20 December, 2023
