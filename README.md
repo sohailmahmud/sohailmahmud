@@ -4,6 +4,8 @@ A Full-Stack Software Engineer with 4+ years of industry experience. Specializes
 
 Currently, I enjoy the work I'm doing for ProHealth. However, any positions opening, and I'm interested to learn more.
 
+[<img width="210px" src="./assets/appointment.png" alt="Book an Appointment">](https://calendly.com/sohailmahmuud)
+
 **Technical Skills:**
 - Programming Languages: Dart, C#, JavaScript, Solidity
 - Technologies and Frameworks: Flutter, .NET Core, Node.js, Express.js, Web3.js
@@ -14,11 +16,8 @@ Currently, I enjoy the work I'm doing for ProHealth. However, any positions open
 
 **You can also find me on internet places:**
 
-[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-[<img width="250px" src="./assets/appointment.png" alt="Book an Appointment">](https://calendly.com/sohailmahmuud)
-
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- [![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 ---
 
