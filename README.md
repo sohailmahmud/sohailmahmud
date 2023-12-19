@@ -17,7 +17,7 @@ Currently, I enjoy the work I'm doing for ProHealth. However, any positions open
 [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-[<img width="100px" src="./assets/appointment.png">](https://calendly.com/sohailmahmuud)
+[<img width="250px" src="./assets/appointment.png" alt="Book an Appointment">](https://calendly.com/sohailmahmuud)
 
 
 ---
