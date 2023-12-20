@@ -25,6 +25,7 @@ Currently, I enjoy the work I'm doing for ProHealth. However, any positions open
 
 <!-- BLOG-POST-LIST:START -->
 - [Securing Flutter Apps: Best Practices for App Security](https://sohailmahmud.medium.com/securing-flutter-apps-best-practices-for-app-security-919596dd0db0)
+- [Async programming in Flutter: Futures, async, await, and more](https://sohailmahmud.medium.com/async-programming-in-flutter-futures-async-await-and-more-b724ebb37886)
 - [Implementing clean architecture in flutter apps](https://medium.com/@santhosh-adiga-u/implementing-clean-architecture-in-flutter-apps-5c8e37253841)
 - <!-- BLOG-POST-LIST:END -->
 
