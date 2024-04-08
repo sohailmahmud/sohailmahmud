@@ -2,7 +2,7 @@
 
 A Full-Stack Software Engineer with 4+ years of industry experience. Specializes in **Flutter**, **.NET Core**, **AWS**, and **DevOps**. Professional experience with building large-scale applications across domains.
 
-Currently, I enjoy the work I'm doing for CimbukLabs. However, any positions opening, and I'm interested to learn more.
+Currently, I enjoy the work I'm doing for Hurraayy. However, any positions opening, and I'm interested to learn more.
 
 [<img width="210px" src="./assets/appointment.png" alt="Book an Appointment">](https://calendly.com/sohailmahmuud)
 
