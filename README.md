@@ -1,6 +1,6 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Full-Stack Software Engineer with 4+ years of industry experience. Specializes in **Flutter**, **.NET Core**, **AWS**, and **DevOps**. Professional experience with building large-scale applications across domains.
+A Full-Stack Software Engineer with 6+ years of industry experience. Specializes in **Flutter**, **.NET Core**, **AWS**, and **DevOps**. Professional experience with building large-scale applications across domains.
 
 Currently, I enjoy the work I'm doing for Hurraayy. However, any positions opening, and I'm interested to learn more.
 
@@ -14,7 +14,7 @@ Currently, I enjoy the work I'm doing for Hurraayy. However, any positions openi
 
 > Interest- Programming, Building things, Tinkering with Rubix Cube, and attending conferences.
 
-**You can also find me on internet places:**
+**You can also find me on the internet places:**
 
 [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/sohailmahmud/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](assets/twitter.svg)](https://twitter.com/sohailmahmuud)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](assets/medium.svg)](https://medium.com/@sohailmahmud)&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- [![StackOverflow](assets/stackoverflow.svg)](https://stackoverflow.com/users/13858780/sohail?tab=profile)&nbsp;&nbsp;&nbsp;&nbsp;-->
@@ -38,4 +38,4 @@ Currently, I enjoy the work I'm doing for Hurraayy. However, any positions openi
 ![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
 
 > Thank you for reading <br>
-> Updated on 03 April, 2024
+> Updated on 03 June, 2024
