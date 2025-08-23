@@ -1,6 +1,6 @@
 ### Hi there👋, I am Sohail Mahmud!
 
-A Full Stack Mobile Engineer with over 5 years of hands-on experience. Specializes in building scalable, production-ready mobile applications using **Flutter** & **Dart**. I’ve successfully developed, deployed, and maintained apps on Google Play and Apple App Store. Experience in team leadership, mentoring developers, and collaborating with cross-functional teams. Passionate about creating scalable, high-performance mobile solutions.
+A Full Stack Mobile Engineer with 5+ years of experience building and deploying scalable iOS & Android apps. Expert in Flutter, Dart, Firebase, REST APIs, GraphQL, and state management (Bloc, Provider, Riverpod, GetX). Proven track record in clean architecture, CI/CD, performance optimization, team leadership, and mentoring. Passionate about delivering high-performance, user-centric mobile solutions.
 
 Available for senior engineering and technical leadership roles.
 
