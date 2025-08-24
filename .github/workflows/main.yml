@@ -17,3 +17,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          # Misc  
+          config_timezone: Asia/Dhaka
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          base: "header, community, metadata"
+          plugin_stars: yes
+          plugin_stars_limit: 5
