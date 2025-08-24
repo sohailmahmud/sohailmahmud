@@ -40,7 +40,7 @@ Available for senior engineering and technical leadership roles.
 
 ## Metrics
 
-![Metrics](https://metrics.lecoq.io/sohailmahmud?template=classic&followup=1&config.timezone=Asia%2FDhaka)
+![Metrics](https://github.com/sohailmahmud/sohailmahmud/blob/master/github-metrics.svg)
 
 > Thank you for reading <br>
 > Updated on August 23, 2025
