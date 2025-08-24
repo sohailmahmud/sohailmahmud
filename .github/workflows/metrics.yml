@@ -2,6 +2,6 @@ name: Example
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.classic.svg
-  token: ${{ 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 }}
+  token: ${{ secrets.METRICS_TOKEN }}
   base: header, repositories
   plugin_lines: yes
