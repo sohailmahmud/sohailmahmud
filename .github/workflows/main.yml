@@ -1,0 +1,25 @@
+name: Metrics
+on:
+  # Schedule updates
+  schedule: [{cron: "0 */3 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@master
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # Misc  
+          config_timezone: Asia/Dhaka
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          base: "header, community, metadata"
+          plugin_stars: yes
+          plugin_stars_limit: 5
