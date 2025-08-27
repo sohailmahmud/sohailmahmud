@@ -6,14 +6,14 @@ Available for senior engineering and technical leadership roles.
 
 [<img width="210px" src="./assets/appointment.png" alt="Book an Appointment">](https://cal.com/sohailmahmud/30min)
 
-**Technical Skills:**
-* Mobile Development & Architecture: Flutter & Dart expert; Kotlin, Java, .Net Core; building scalable, maintainable apps using OOP, Clean Architecture,
-  MVVM, Dependency Injection and advanced state management (Bloc, Provider, Riverpod, GetX)
-* Backend, Databases & Cloud: Firebase (Auth, Firestore, Functions, Push), Rest & GraphQL APIs, Supabase; MSSQL, PostgreSQL, MongoDB; local storage and
+#### Technical Skills:
+* **Mobile Development & Architecture:** Flutter & Dart expert; Kotlin, Java, .Net Core; building scalable, maintainable apps using OOP, Clean
+  Architecture,MVVM, Dependency Injection and advanced state management (Bloc, Provider, Riverpod, GetX).
+* **Backend, Databases & Cloud:** Firebase (Auth, Firestore, Functions, Push), Rest & GraphQL APIs, Supabase; MSSQL, PostgreSQL, MongoDB; local storage and
   caching with Hive and ObjectBox; cloud platforms AWS & GCP; ETL pipelines with AWS Glue; integrating backend services with mobile apps.
-* CI/CD, Testing & Optimization: GitHub Actions, Bitrise, Git; applying TDD, unit & integration testing, performance tuning and automated deployment
+* **CI/CD, Testing & Optimization:** GitHub Actions, Bitrise, Git; applying TDD, unit & integration testing, performance tuning and automated deployment
   pipelines; workflow tools: Jira, Slack, Agile/Scrum.
-* UI/UX & Agile Delivery: Pixel-perfect UI implementation from Figma, Material and Cupertino designs; Reactive
+* **UI/UX & Agile Delivery:** Pixel-perfect UI implementation from Figma, Material and Cupertino designs; Reactive
   Programming for responsive apps; mentoring, code reviews and end-to-end app delivery in collaborative Agile teams.
 
 **You can also find me on internet places:**
@@ -23,7 +23,7 @@ Available for senior engineering and technical leadership roles.
 
 ---
 
-#### ✍️ Latest Blog Articles
+### ✍️ Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Supabase + Flutter: Powering Your Mobile App Backend](https://sohailmahmud.medium.com/supabase-flutter-powering-your-mobile-app-backend-0c0449f79dc3)
@@ -36,7 +36,7 @@ Available for senior engineering and technical leadership roles.
 
 ---
 
-## Metrics
+### Metrics
 
 ![Metrics](https://github.com/sohailmahmud/sohailmahmud/blob/master/github-metrics.svg)
 
