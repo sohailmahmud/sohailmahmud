@@ -9,8 +9,8 @@ Available for senior engineering and technical leadership roles.
 #### Technical Skills:
 * **Mobile Development & Architecture:** Flutter & Dart expert; Kotlin, Java, .Net Core; building scalable, maintainable apps using OOP, Clean
   Architecture,MVVM, Dependency Injection and advanced state management (Bloc, Provider, Riverpod, GetX).
-* **Backend, Databases & Cloud:** Firebase (Auth, Firestore, Functions, Push), Rest & GraphQL APIs, Supabase; MSSQL, PostgreSQL, MongoDB; local storage and
-  caching with Hive and ObjectBox; cloud platforms AWS & GCP; ETL pipelines with AWS Glue; integrating backend services with mobile apps.
+* **Backend, Databases & Cloud:** Firebase (Auth, Firestore, Serverless, Push), Rest & GraphQL APIs, Supabase; MSSQL, PostgreSQL, MongoDB; local storage
+  and caching with Hive and ObjectBox; cloud platforms AWS & GCP; ETL pipelines with AWS Glue; integrating backend services with mobile apps.
 * **CI/CD, Testing & Optimization:** GitHub Actions, Bitrise, Git; applying TDD, unit & integration testing, performance tuning and automated deployment
   pipelines; workflow tools: Jira, Slack, Agile/Scrum.
 * **UI/UX & Agile Delivery:** Pixel-perfect UI implementation from Figma, Material and Cupertino designs; Reactive
