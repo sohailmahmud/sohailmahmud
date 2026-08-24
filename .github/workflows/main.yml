@@ -1,22 +1,23 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Schedule updates (every 3 hours)
+  schedule: [{cron: "0 */3 * * *"}]
+  # Allow manual trigger on demand
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Run workflow when pushing to master or main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: master
+          filename: github-metrics.svg
           # Misc  
           config_timezone: Asia/Dhaka
           plugin_isocalendar: yes

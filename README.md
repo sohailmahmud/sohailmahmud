@@ -39,7 +39,7 @@ Available for senior engineering and technical leadership roles.
 
 ### Metrics
 
-![Metrics](https://github.com/sohailmahmud/sohailmahmud/blob/master/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
 > Thank you for reading <br>
 > Updated on September 21, 2025
