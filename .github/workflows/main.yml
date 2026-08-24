@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: output
+          committer_branch: master
           filename: github-metrics.svg
           # Misc  
           config_timezone: Asia/Dhaka
